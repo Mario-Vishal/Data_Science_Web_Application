@@ -25,6 +25,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 - plotly
 
+- dataset - Download it from here https://drive.google.com/file/d/1-8oK-5uN1QUVYvFkM-D0WDxgGhJUsRDv/view?usp=sharing
+
 ### Installing
 
 These are the required dependencies you need to run this application
