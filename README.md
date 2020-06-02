@@ -56,7 +56,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running
 
-Go into the project directory where the app.py is present, open the terminal there and use the following command to run this application
+Go into the project directory where the app.py is present, extract the dataset file into the project directory and open the terminal there and use the following command to run this application
 
 ```
 streamlit run app.py
